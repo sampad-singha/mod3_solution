@@ -41,6 +41,10 @@ body {
   color: #f9f7f7;
 }
 
+.nav-item {
+  background-color: #ce4b5a;
+}
+
 .nav-item:hover {
   background-color: #efc3c8;
 }
