@@ -1,0 +1,95 @@
+/* Element Selectors */
+body {
+  background-color: #f9f7f7;
+}
+
+/* Navbar Section */
+.main-nav {
+  background-color: #AD2F3E;
+  padding: 0;
+}
+
+.navbar-brand {
+  color: #f9f7f7;
+}
+
+.navbar-brand:hover {
+  color: #fff;
+}
+
+.nav-link {
+  color: #f9f7f7;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #000;
+}
+
+.navbar-brand {
+  font-family: 'Comfortaa';
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.navbar-toggler {
+  margin: 1rem;
+  border-color: #f9f7f7;
+}
+
+.fa-bars {
+  color: #f9f7f7;
+}
+
+.nav-item:hover {
+  background-color: #efc3c8;
+}
+
+/* Main Content Section */
+.top-heading {
+  padding: 6rem 0 0;
+  color: #374348;
+}
+
+.top-heading-text {
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.row {
+  margin: 0;
+}
+
+.content-tile {
+  box-shadow: 1px 1px 20px -5px #888888;
+  background-color: #dbe2ef;
+  margin: 5rem 1.25rem 2.5rem;
+}
+
+.content-heading {
+  font-family: "Montserrat";
+  font-weight: 400;
+  background-color: #2F84AD;
+  color: #f9f7f7;
+  padding: .8rem 0;
+  font-size: 1.5rem;
+}
+
+.content-body {
+  color: #374348;
+  padding: 2rem 1rem 0;
+  line-height: 1.7;
+  font-size: 1.2rem;
+  font-family: 'Raleway';
+}
+
+.btt-btn {
+  background-color: #374348;
+  color: #fff;
+  border-radius: 0;
+}
+
+.btt-btn:hover {
+  background-color: #4e5d65;
+  color: #fff;
+}
